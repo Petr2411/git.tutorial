@@ -1,1 +1,1 @@
-Toto je můj GIT, kde su budu nadále vzdělávat !
+Toto je můj GIT, kde se budu nadále vzdělávat !
